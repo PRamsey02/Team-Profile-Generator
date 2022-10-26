@@ -5,10 +5,10 @@
   An application that generates a team profile based on the user inputs from the inquirer module and Node.js that displays the information on a dynamically created HTML page with a CSS style sheet. This project displays the use of OOP and TDD using Jest.
 
 ## Table of Contents
-- [Requirements](#requirements)
+- [Usage](#usage)
 - [Installation](#installation)
 - [License](#license)
-- [Contributors](#contributors)
+- [Contribute](#contribute)
 - [Test](#test)
 - [Questions](#questions)
 
