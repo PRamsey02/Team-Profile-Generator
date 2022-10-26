@@ -1,6 +1,28 @@
 {
-  "dependencies": {
-    "inquirer": "^8.2.4",
+  "name": "Team-Profile-Generator",
+  "version": "1.0.0",
+  "description": "Application to generate team profile",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PRamsey02/Team-Profile-Generator"
+  },
+  "author": "Preston Ramsey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PRamsey02/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/PRamsey02/Team-Profile-Generator#readme",
+  "devDependencies": {
     "jest": "^29.2.2"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
   }
 }
