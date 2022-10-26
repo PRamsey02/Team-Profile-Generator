@@ -13,7 +13,8 @@
 - [Questions](#questions)
 
   ## Usage
-  https://drive.google.com/file/d/1m2iIQCmGuhqdzh9-cbyqpL1Td1i_5oQy/view
+  ![Untitled_ Oct 26, 2022 1_40 AM](https://user-images.githubusercontent.com/113738082/197954848-1d2f8cf5-3618-4fee-8baf-e0b19df9cac8.gif)
+
   
  
 ## Installation
